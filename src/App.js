@@ -7,6 +7,7 @@ import NoteApp from './NoteApp';
 function App() {
   return (
     <div className='App'>
+      <NoteTakingApp></NoteTakingApp>
   <NoteApp></NoteApp>
     </div>
   );
